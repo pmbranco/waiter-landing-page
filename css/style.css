@@ -198,7 +198,7 @@ iframe {
 }
 
 .newsletter-wrapper{
-	background: url(http://placehold.it/1920x1000);
+	background-color: white;	
 	background-position: top center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -209,7 +209,7 @@ iframe {
 }
 
 .section-image-wrapper{
-	background: url(http://placehold.it/1920x1000);
+	background-color: white;
 	background-position: top center;
     background-repeat: no-repeat;
     background-attachment: fixed;
