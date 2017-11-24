@@ -2,7 +2,7 @@
 $field_email = $_POST['email'];
 
 $mail_to = 'waiter_2018@labeip.epitech.eu';
-$subject = 'Message from a site visitor '.$field_email;
+$subject = '[Demande de Bêta] Site vitrine EIP Waiter - '.$field_email;
 
 $body_message .= 'E-mail: '.$field_email."\n";
 

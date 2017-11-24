@@ -1225,6 +1225,10 @@ ul.footer_social li a i:hover {
 	font-size: 30px;
 	color: #ffffff;
 }
+.newsletter-subtitle{
+	font-size: 20px;
+	color: #ffffff;
+}
 .newsletter_form{
 	background: transparent;
 	margin: 20px auto;
