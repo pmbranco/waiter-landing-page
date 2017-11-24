@@ -10,7 +10,7 @@ $field_message = $_POST['message'];
 
 $mail_to = 'waiter_2018@labeip.epitech.eu';
 
-$subject = 'Message from a site visitor '.$field_first_name;
+$subject = '[Contact] Site vitrine EIP Waiter -'.$field_first_name;
 
 $body_message = 'From: '.$field_first_name."\n";
 
